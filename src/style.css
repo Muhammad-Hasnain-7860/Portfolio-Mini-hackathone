@@ -262,6 +262,11 @@ nav .logo img {
   width: 80%;
 }
 
+.main-about p {
+  position: absolute;
+  top: 20%;
+}
+
 .ab-con h1 {
   word-spacing: 6px;
   text-align: center;
