@@ -252,7 +252,7 @@ nav .logo img {
   flex-direction: column;
   justify-content: end;
   position: relative;
-  gap: 40px;
+  /* gap: 40px; */
   padding: 120px 20px;
   z-index: 100;
   background-color: var(--bg);
@@ -271,6 +271,8 @@ nav .logo img {
   word-spacing: 6px;
   text-align: center;
   overflow: hidden;
+  position: absolute;
+  top: 40%;
 }
 
 .ab-con h1 span {
