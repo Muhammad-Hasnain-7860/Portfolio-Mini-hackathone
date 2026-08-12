@@ -258,22 +258,25 @@ nav .logo img {
   background-color: var(--bg);
 }
 
-.main-about .ab-con {
-  width: 80%;
-}
 
 .main-about p {
   position: absolute;
   top: 20%;
 }
 
+.ab-con {
+  width: 85%;
+}
+
 .ab-con h1 {
-  word-spacing: 6px;
+  word-spacing: 7px;
   text-align: center;
   overflow: hidden;
-  position: absolute;
-  top: 35%;
-  left: 0;
+  /* position: absolute; */
+  /* top: 35%; */
+  /* left: 0; */
+  /* margin: 0 auto; */
+  margin-top: 50px;
 }
 
 .ab-con h1 span {
